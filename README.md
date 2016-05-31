@@ -2,8 +2,9 @@
 
 A curated list of awesome Android development tips.
 
-## Potatotips
-
+## Cookpad Engineers' Blog
+- [Androidアプリのリソースを整理して開発効率を改善した話](http://techlife.cookpad.com/entry/2016/05/17/115024)
+- [オープンソースライセンスの管理を楽にする -Android アプリ編](http://techlife.cookpad.com/entry/2016/04/28/183000)
 
 ## DroidKaigi
 
